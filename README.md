@@ -1,30 +1,41 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=230&section=header&text=Hi%20there,%20I'm%20Akriti%20Shukla&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
+  <!-- ================= HEADER BANNER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=240&section=header&text=Akriti%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%7C%20UI%2FUX%20Architect&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- TYPING SVG SUBTITLE -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=680&lines=Senior+Frontend+%26+Full-Stack+Engineer+%F0%9F%9A%80;Building+Scalable%2C+Accessible+%26+Modern+Web+Apps+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- QUICK BADGES / SOCIAL PILLS -->
+  <!-- ================= TYPING SVG ================= -->
   <a href="https://github.com/akriti1929">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:akritishukla32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/akriti-shukla">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=Senior+Frontend+%26+Full-Stack+Engineer+%F0%9F%9A%80;Architecting+Scalable%2C+Accessible+%26+High-Performance+Web+Apps+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Obsessed+with+Core+Web+Vitals+%26+Pixel-Perfect+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=akriti1929&style=flat-square&color=00F2FE&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- ================= QUICK NAVIGATION ================= -->
+  <p align="center">
+    <a href="#-about-me"><b>About</b></a> •
+    <a href="#-engineering-pillars"><b>Engineering Pillars</b></a> •
+    <a href="#️-tech-stack--ecosystem"><b>Tech Stack</b></a> •
+    <a href="#-featured-engineering-projects"><b>Featured Projects</b></a> •
+    <a href="#-github-analytics--activity"><b>Analytics</b></a> •
+    <a href="#-get-in-touch"><b>Contact</b></a>
+  </p>
+
+  <!-- ================= SOCIAL & STATUS PILLS ================= -->
+  <p align="center">
+    <a href="https://github.com/akriti1929">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:akritishukla32@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/akriti-shukla">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=akriti1929&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 
 </div>
 
@@ -33,26 +44,59 @@
 ### 🚀 About Me
 
 ```typescript
-const akritiShukla = {
+interface SeniorFrontendEngineer {
+  name: string;
+  role: string;
+  location: string;
+  openForOpportunities: boolean;
+  coreStack: string[];
+  architectureFocus: string[];
+  performanceObsession: string;
+}
+
+const akritiShukla: SeniorFrontendEngineer = {
   name: "Akriti Shukla",
-  role: "Senior Frontend Engineer & Full-Stack Developer",
-  github: "akriti1929",
-  passions: ["Component Architecture", "Design Systems", "Web Performance", "AI Integrations"],
-  technologies: {
-    frontend: ["React", "Next.js", "JavaScript (ES6+)", "TypeScript", "Tailwind CSS", "HTML5/CSS3"],
-    stateAndData: ["TanStack Query", "Redux Toolkit", "Context API", "REST APIs"],
-    toolsAndDevOps: ["Vite", "Git / GitHub Actions", "Vercel", "ESLint", "Webpack"],
-    creativeAndAI: ["Full-Stack AI Integrations", "Python", "Interactive UI/UX"]
-  },
-  currentFocus: "Architecting modular, high-impact web apps and pushing 100/100 Core Web Vitals ⚡",
-  philosophy: "Build scalable, responsive, accessible, and delightful digital experiences."
+  role: "Senior Frontend Engineer & UI/UX Architect",
+  location: "India",
+  openForOpportunities: true,
+  coreStack: ["React 19", "Next.js 15 (App Router)", "TypeScript", "Tailwind CSS", "TanStack Query"],
+  architectureFocus: [
+    "Modular Component Design Systems",
+    "High-Concurrency Client State Management",
+    "Zero-CLS / 100-Score Core Web Vitals",
+    "Full-Stack AI & Intelligent API Integrations"
+  ],
+  performanceObsession: "Sub-100ms INP, sub-second LCP, and 60fps micro-animations."
 };
 ```
 
-- 💡 **Specialties:** Component Design Systems, High-Performance SPAs/SSRs, State Management, Responsive Web Design & Web Vitals.
-- 🛠️ **Engineering Principles:** Clean Code, Modular Component Architecture, WCAG Accessibility, Test-Driven Quality, CI/CD Automation.
+- 💡 **Specialties:** Component Systems, High-Performance SPAs/SSRs, State Management, Responsive Web Design & Web Vitals.
+- 🛠️ **Engineering Principles:** Clean Code, Modular Component Architecture, WCAG 2.1 AA Accessibility, Test-Driven Quality, CI/CD Automation.
 - 🔭 **Current Work:** Developing modern reactive web platforms with **React, Next.js, and Tailwind CSS**.
-- 💬 **Ask me about:** Frontend Performance, Modern UI Engineering, React State Architecture, and Full-Stack Web Development.
+- 💬 **Ask me about:** Frontend Architecture, Bundle Optimization, Rendering Pipelines (SSR, SSG, ISR, RSC), and UX Engineering.
+
+---
+
+### 🏛️ Engineering Pillars
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>⚡ Performance First</h3>
+      <p>Zero layout shifts (CLS), tree-shaken bundles, optimized asset loading pipelines, and sub-100ms interaction latency.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎨 Design Systems</h3>
+      <p>Modular, atomic components built with accessibility (WCAG 2.1 AA), tokens, and seamless dark/light theme switching.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛡️ Resilient Architecture</h3>
+      <p>Strict TypeScript types, end-to-end testing, error boundaries, and scalable state machines using TanStack Query & Redux.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -62,8 +106,8 @@ const akritiShukla = {
 
 #### ⚡ Core & Frontend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -84,6 +128,7 @@ const akritiShukla = {
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
 </p>
 
 #### ⚙️ Build, Bundling & DevOps
@@ -181,7 +226,7 @@ const akritiShukla = {
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -191,14 +236,15 @@ const akritiShukla = {
 
   <br/><br/>
 
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akriti1929&layout=compact&theme=radical&hide_border=false&border_color=30363d&border_radius=12&langs_count=8" alt="Top Languages" width="60%" />
+  <!-- TOP LANGUAGES & ACTIVITY GRAPH -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akriti1929&layout=compact&theme=radical&hide_border=false&border_color=30363d&border_radius=12&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akriti1929&theme=radical&hide_border=false&border_color=30363d&border_radius=12" alt="Activity Graph" width="49%" />
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Get In Touch
 
 <div align="center">
 
@@ -218,7 +264,7 @@ const akritiShukla = {
 
   <br/><br/>
 
-  <!-- FOOTER WAVE -->
+  <!-- ================= FOOTER WAVE ================= -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
