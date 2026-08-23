@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=240&section=header&text=Akriti%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%7C%20UI%2FUX%20Architect&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=240&section=header&text=Akriti%20Shukla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full--Stack%20%26%20Frontend%20Engineer%20%7C%20Ex--Intern%20%40%20DRDO%20ITR&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- ================= TYPING SVG ================= -->
   <a href="https://github.com/akriti1929">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=Senior+Frontend+%26+Full-Stack+Engineer+%F0%9F%9A%80;Architecting+Scalable%2C+Accessible+%26+High-Performance+Web+Apps+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Obsessed+with+Core+Web+Vitals+%26+Pixel-Perfect+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+%26+Frontend+Engineer+%F0%9F%9A%80;Turning+Ideas+into+Scalable%2C+Modern+Systems+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Flask;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -44,36 +44,36 @@
 ### 🚀 About Me
 
 ```typescript
-interface SeniorFrontendEngineer {
+interface SoftwareEngineer {
   name: string;
   role: string;
+  experience: string;
   location: string;
-  openForOpportunities: boolean;
   coreStack: string[];
-  architectureFocus: string[];
-  performanceObsession: string;
+  passions: string[];
+  philosophy: string;
 }
 
-const akritiShukla: SeniorFrontendEngineer = {
+const akritiShukla: SoftwareEngineer = {
   name: "Akriti Shukla",
-  role: "Senior Frontend Engineer & UI/UX Architect",
+  role: "Full-Stack & Frontend Engineer",
+  experience: "Ex-Intern @ DRDO ITR",
   location: "India",
-  openForOpportunities: true,
-  coreStack: ["React 19", "Next.js 15 (App Router)", "TypeScript", "Tailwind CSS", "TanStack Query"],
-  architectureFocus: [
-    "Modular Component Design Systems",
-    "High-Concurrency Client State Management",
-    "Zero-CLS / 100-Score Core Web Vitals",
-    "Full-Stack AI & Intelligent API Integrations"
+  coreStack: ["React", "Next.js", "JavaScript/TypeScript", "Python", "Flask", "Tailwind CSS"],
+  passions: [
+    "Scalable Web Architectures",
+    "Modern Component Design Systems",
+    "AI-Powered Application Engineering",
+    "Real-Time Automation & Microservices"
   ],
-  performanceObsession: "Sub-100ms INP, sub-second LCP, and 60fps micro-animations."
+  philosophy: "Turn complex ideas into clean, performant, resilient, and intuitive digital systems."
 };
 ```
 
-- 💡 **Specialties:** Component Systems, High-Performance SPAs/SSRs, State Management, Responsive Web Design & Web Vitals.
-- 🛠️ **Engineering Principles:** Clean Code, Modular Component Architecture, WCAG 2.1 AA Accessibility, Test-Driven Quality, CI/CD Automation.
-- 🔭 **Current Work:** Developing modern reactive web platforms with **React, Next.js, and Tailwind CSS**.
-- 💬 **Ask me about:** Frontend Architecture, Bundle Optimization, Rendering Pipelines (SSR, SSG, ISR, RSC), and UX Engineering.
+- 🏛️ **Background:** Ex-Intern at **DRDO ITR** (Defence Research and Development Organisation).
+- 💡 **Specialties:** High-Scalability Web Apps, Modern Reactive UI Systems, RESTful APIs, Python & Flask Microservices, AI/NLP Integrations.
+- 🛠️ **Engineering Principles:** Clean Code, SOLID Design, Modular Architecture, Responsive Design & Performance Optimization.
+- 🔭 **Current Work:** Crafting high-impact web apps with **React, Next.js, TypeScript, and Python**.
 
 ---
 
@@ -83,16 +83,16 @@ const akritiShukla: SeniorFrontendEngineer = {
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>⚡ Performance First</h3>
-      <p>Zero layout shifts (CLS), tree-shaken bundles, optimized asset loading pipelines, and sub-100ms interaction latency.</p>
+      <h3>⚡ Performance & Scale</h3>
+      <p>High-throughput API endpoints, zero layout shifts (CLS), tree-shaken bundles, and sub-100ms response times.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🎨 Design Systems</h3>
-      <p>Modular, atomic components built with accessibility (WCAG 2.1 AA), tokens, and seamless dark/light theme switching.</p>
+      <h3>🎨 Modern UI/UX</h3>
+      <p>Accessible, responsive, design-system-driven interfaces built with React, Tailwind CSS, and smooth micro-animations.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🛡️ Resilient Architecture</h3>
-      <p>Strict TypeScript types, end-to-end testing, error boundaries, and scalable state machines using TanStack Query & Redux.</p>
+      <h3>🧠 AI & Automation</h3>
+      <p>Integrating intelligent AI/NLP models, ATS scoring pipelines, and automated real-time tracking systems.</p>
     </td>
   </tr>
 </table>
@@ -104,41 +104,33 @@ const akritiShukla: SeniorFrontendEngineer = {
 
 <div align="center">
 
-#### ⚡ Core & Frontend Frameworks
+#### ⚡ Frontend & UI Frameworks
 <p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🎨 Styling, UI Systems & Motion
-<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🔄 State Management & Data Fetching
+#### ⚙️ Backend, Python & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+#### 🛠️ State Management, Tooling & Cloud
 <p>
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
-</p>
-
-#### ⚙️ Build, Bundling & DevOps
-<p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 </div>
@@ -150,6 +142,22 @@ const akritiShukla: SeniorFrontendEngineer = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🚗 Smart-Autopark-Manager</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--Time-EF4444?style=flat-square" />
+      </p>
+      <p>Intelligent parking automation system that detects vehicles, dynamically allocates available slots, and updates parking availability status in real time to eliminate congestion.</p>
+      <ul>
+        <li>⚡ Real-time slot allocation & vehicle tracking algorithms</li>
+        <li>📉 Reduces manual overhead and avoids parking bottlenecks</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/akriti1929/Smart-Autopark-Manager"><b>📁 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">📋 Sprint-Board</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -157,34 +165,14 @@ const akritiShukla: SeniorFrontendEngineer = {
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p>Modern, responsive agile Sprint & Kanban project management board built for developer productivity, task tracking, and smooth drag-and-drop workflow execution.</p>
+      <p>Modern, responsive agile Sprint & Kanban project management board built for developer productivity, task tracking, and smooth workflow execution.</p>
       <ul>
-        <li>⚡ Interactive task column transitions & real-time updates</li>
-        <li>🎨 Clean dark/light theme with fluid responsive layout</li>
-        <li>🚀 Deployed seamlessly on Vercel Edge</li>
+        <li>⚡ Interactive task column transitions & state persistence</li>
+        <li>🎨 Clean responsive UI deployed on Vercel Edge</li>
       </ul>
       <p align="center">
         <a href="https://github.com/akriti1929/Sprint-Board"><b>📁 Source Code</b></a> •
         <a href="https://sprint-board-brown.vercel.app"><b>🚀 Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 go4Food / demofood</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI%2FUX-FF4785?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <p>Full-featured interactive food discovery, menu exploration, and online ordering application engineered for rich user engagement and seamless checkout flow.</p>
-      <ul>
-        <li>🍔 Real-time cart state, dish filtering & search indexing</li>
-        <li>📱 Mobile-first responsive UI with polished micro-interactions</li>
-        <li>🚀 Instant preview deployments on Vercel</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/akriti1929/go4Food"><b>📁 Source Code</b></a> •
-        <a href="https://go4-food-six.vercel.app"><b>🚀 Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -199,26 +187,27 @@ const akritiShukla: SeniorFrontendEngineer = {
       <p>Intelligent resume parser and ATS scoring platform that analyzes applicant profiles against job descriptions to provide actionable keyword and skill gap insights.</p>
       <ul>
         <li>🧠 Automated keyword extraction & resume-to-job match scoring</li>
-        <li>📊 Clear visual feedback and improvement suggestions</li>
+        <li>📊 Clear visual feedback and skill gap analysis</li>
       </ul>
       <p align="center">
         <a href="https://github.com/akriti1929/AI-Resume-Analyser"><b>📁 Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 AI Medical Chatbot</h3>
+      <h3 align="center">🍔 go4Food / demofood</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Assistant-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Healthcare-EF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p>Conversational healthcare virtual assistant leveraging AI NLP techniques to assist users with symptom inquiries, preliminary medical guidance, and healthcare knowledge.</p>
+      <p>Interactive food ordering and discovery web application engineered with cart management, search filtering, and responsive design.</p>
       <ul>
-        <li>🤖 Context-aware conversational response generation</li>
-        <li>⚡ Fast query resolution and structured medical advice retrieval</li>
+        <li>🍔 Real-time cart state & dish filtering</li>
+        <li>📱 Mobile-first responsive UI with instant Vercel preview</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/akriti1929/AI-Medical-Chatbot"><b>📁 Source Code</b></a>
+        <a href="https://github.com/akriti1929/go4Food"><b>📁 Source Code</b></a> •
+        <a href="https://go4-food-six.vercel.app"><b>🚀 Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -248,7 +237,7 @@ const akritiShukla: SeniorFrontendEngineer = {
 
 <div align="center">
 
-  <p>I'm always open to discussing frontend architecture, design systems, open-source initiatives, and exciting opportunities.</p>
+  <p>I'm always open to discussing web engineering, scalable architectures, open-source initiatives, and exciting opportunities.</p>
 
   <a href="https://github.com/akriti1929">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
