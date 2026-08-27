@@ -3,12 +3,14 @@
   <!-- ================= HEADER BANNER ================= -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=220&section=header&text=Hi%20There!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Header Banner" />
 
-  <!-- ================= HERO TITLE & MONOSPACE SUBTITLE ================= -->
+  <!-- ================= HERO TITLE & ANIMATED TYPING SUBTITLE ================= -->
   <h2>Hi 👋, I'm Akriti Shukla</h2>
 
-  <p>
-    <code>&lt; Full-Stack &amp; Frontend Systems Engineer /&gt;</code>
-  </p>
+  <a href="https://github.com/akriti1929">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=Full-Stack+%26+Frontend+Engineer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%26+Microservices+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Flask;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <!-- ================= PROFILE VIEWS BADGE ================= -->
   <p>
@@ -21,53 +23,75 @@
 
 ### 🎯 Overview
 
-Computer Science Engineering student with hands-on experience in **frontend systems, scalable backend architectures, and AI-driven workflows**.  
-Previously worked as a **Research/Engineering Intern at DRDO ITR** (Defence Research and Development Organisation), contributing to real-world technical systems and automation pipelines.
-
-My engineering focus centers on **building high-performance web applications, resilient backend microservices, and intuitive user experiences**, with a strong passion for **clean code architecture, reliability, and full-stack scalability**.
-
-- 📍 **Location:** India
-- 🎓 **Education:** Bachelor of Technology (B.Tech) in Computer Science & Engineering
-- 💼 **Experience:** Ex-Intern @ **DRDO ITR** (Integrated Test Range)
-- 🔭 **Current Focus:** Modern Reactive Web Architecture (**React, Next.js, TypeScript**), **Python/Flask** services, and intelligent AI integrations
-- 💬 **Ask me about:** Frontend Engineering, REST API Design, UI/UX Optimization, and Python Systems
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        Computer Science Engineering student with hands-on experience in <b>frontend systems, scalable backend architectures, and AI-driven workflows</b>.
+      </p>
+      <p>
+        Previously worked as a <b>Research/Engineering Intern at DRDO ITR</b> (Defence Research and Development Organisation), contributing to real-world technical systems and automation pipelines.
+      </p>
+      <p>
+        My engineering focus centers on <b>building high-performance web applications, resilient backend microservices, and intuitive user experiences</b>, with a strong passion for <b>clean code architecture, reliability, and full-stack scalability</b>.
+      </p>
+      <ul>
+        <li>📍 <b>Location:</b> India</li>
+        <li>🎓 <b>Education:</b> Bachelor of Technology (B.Tech) in Computer Science &amp; Engineering</li>
+        <li>💼 <b>Experience:</b> Ex-Intern @ <b>DRDO ITR</b> (Integrated Test Range)</li>
+        <li>🔭 <b>Current Focus:</b> Modern Reactive Web Architecture (<b>React, Next.js, TypeScript</b>), <b>Python/Flask</b> services, and AI integrations</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="100%" alt="Developer Animation" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal & Skills
 
 <div align="center">
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react,nextjs,flask,tailwind,redux,git,github,vite,vercel,postman,linux&perline=9" alt="My Skills" />
+    </a>
+  </p>
 
-#### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query" />
-</p>
+</div>
 
-#### ⚙️ Developer Tools, Platforms & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<br/>
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td align="center"><b>⚡ Frameworks &amp; State</b></td>
+    <td align="center"><b>⚙️ Tools &amp; Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -163,7 +187,7 @@ My engineering focus centers on **building high-performance web applications, re
 
   <br/>
 
-  <!-- ================= STREAK STATS (HIGH RELIABILITY) ================= -->
+  <!-- ================= STREAK STATS ================= -->
   <img src="https://streak-stats.demolab.com?user=akriti1929&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="70%" />
 
 </div>
