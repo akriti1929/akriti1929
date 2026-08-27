@@ -149,15 +149,23 @@ My engineering focus centers on **building high-performance web applications, re
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akriti1929&show_icons=true&theme=default&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akriti1929&theme=default&hide_border=false&border_radius=8" alt="GitHub Streak" width="49%" />
 
-  <br/><br/>
+  <p>
+    <img src="https://img.shields.io/badge/Repositories-10+-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Contributions-230+_in_past_year-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-blueviolet?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akriti1929&layout=compact&theme=default&hide_border=false&border_radius=8&langs_count=6" alt="Top Languages" width="60%" />
+  <br/>
+
+  <!-- ================= STREAK STATS (HIGH RELIABILITY) ================= -->
+  <img src="https://streak-stats.demolab.com?user=akriti1929&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="70%" />
+
 </div>
 
 ---
@@ -166,16 +174,25 @@ My engineering focus centers on **building high-performance web applications, re
 
 <div align="center">
 
-  <a href="https://github.com/akriti1929">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
+  <p><i>"Turning ideas into scalable, resilient, and high-impact digital systems."</i></p>
+
+  <br/>
+
   <a href="https://linkedin.com/in/akriti-shukla">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:akritishukla32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/akriti1929">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ================= FOOTER WAVE ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
