@@ -1,52 +1,97 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=220&section=header&text=Hi%20There!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=230&section=header&text=Akriti%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full--Stack%20%26%20Frontend%20Systems%20Engineer%20%7C%20Ex--Intern%20%40%20DRDO%20ITR&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- ================= HERO TITLE & ANIMATED TYPING SUBTITLE ================= -->
-  <h2>Hi 👋, I'm Akriti Shukla</h2>
-
+  <!-- ================= ANIMATED TYPING TERMINAL ================= -->
   <a href="https://github.com/akriti1929">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=Full-Stack+%26+Frontend+Engineer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%26+Microservices+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Flask;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+%26+Frontend+Engineer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%26+Microservices+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Flask;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- ================= PROFILE VIEWS BADGE ================= -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=akriti1929&style=flat-square&color=0284c7&label=Profile+views" alt="Profile views" />
+  <!-- ================= HERO BADGE MATRIX ================= -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Frontend%20Engineer-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Experience-Ex--Intern%20%40%20DRDO%20ITR-0284C7?style=for-the-badge&logo=shield&logoColor=white" alt="DRDO" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-22C55E?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=akriti1929&style=for-the-badge&color=0284c7&label=Profile+views" alt="Profile views" />
   </p>
 
 </div>
 
 ---
 
-### 🎯 Overview
+### 🎯 Overview & Background
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="62%" valign="middle">
+      <blockquote>
+        <b>💡 Passionate Engineer Turning Complex Ideas into Scalable, Intuitive, and High-Performance Digital Systems.</b>
+      </blockquote>
       <p>
-        Computer Science Engineering student with hands-on experience in <b>frontend systems, scalable backend architectures, and AI-driven workflows</b>.
+        I am a <b>Computer Science Engineering</b> student with deep practical experience spanning <b>frontend architecture, resilient backend microservices, and AI-driven automation pipelines</b>.
       </p>
       <p>
-        Previously worked as a <b>Research/Engineering Intern at DRDO ITR</b> (Defence Research and Development Organisation), contributing to real-world technical systems and automation pipelines.
+        During my <b>Research/Engineering Internship at DRDO ITR</b> (Defence Research and Development Organisation), I worked on real-world engineering workflows, reliability protocols, and scalable technical pipelines.
       </p>
-      <p>
-        My engineering focus centers on <b>building high-performance web applications, resilient backend microservices, and intuitive user experiences</b>, with a strong passion for <b>clean code architecture, reliability, and full-stack scalability</b>.
-      </p>
-      <ul>
-        <li>📍 <b>Location:</b> India</li>
-        <li>🎓 <b>Education:</b> Bachelor of Technology (B.Tech) in Computer Science &amp; Engineering</li>
-        <li>💼 <b>Experience:</b> Ex-Intern @ <b>DRDO ITR</b> (Integrated Test Range)</li>
-        <li>🔭 <b>Current Focus:</b> Modern Reactive Web Architecture (<b>React, Next.js, TypeScript</b>), <b>Python/Flask</b> services, and AI integrations</li>
-      </ul>
+      <table>
+        <tr>
+          <td>📍 <b>Location</b></td>
+          <td>India</td>
+        </tr>
+        <tr>
+          <td>🎓 <b>Education</b></td>
+          <td>B.Tech in Computer Science &amp; Engineering</td>
+        </tr>
+        <tr>
+          <td>💼 <b>Experience</b></td>
+          <td>Ex-Intern @ <b>DRDO ITR</b> (Integrated Test Range)</td>
+        </tr>
+        <tr>
+          <td>🔭 <b>Current Focus</b></td>
+          <td><b>React, Next.js 15, TypeScript, Python / Flask</b> &amp; AI Integrations</td>
+        </tr>
+        <tr>
+          <td>💬 <b>Ask Me About</b></td>
+          <td>Component Architecture, REST APIs, Web Performance &amp; UI Systems</td>
+        </tr>
+      </table>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="100%" alt="Developer Animation" style="border-radius: 12px;" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="100%" alt="Developer Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🟢%20Active-Building%20%26%20Learning-black?style=flat-square" alt="Status Badge" />
     </td>
   </tr>
 </table>
+
+---
+
+### 🏛️ Engineering Pillars
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>⚡ Performance &amp; Scale</h3>
+      <p>High-throughput API endpoints, zero layout shifts (CLS), tree-shaken bundles, and sub-100ms response times.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 Modern UI/UX</h3>
+      <p>Accessible, responsive, design-system-driven interfaces built with React, Tailwind CSS, and smooth micro-animations.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 AI &amp; Automation</h3>
+      <p>Integrating intelligent AI/NLP models, ATS scoring pipelines, and automated real-time tracking systems.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -67,24 +112,24 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td align="center"><b>⚡ Frameworks &amp; State</b></td>
-    <td align="center"><b>⚙️ Tools &amp; Cloud</b></td>
+    <td align="center" width="33%"><b>💻 Languages</b></td>
+    <td align="center" width="33%"><b>⚡ Frameworks &amp; State</b></td>
+    <td align="center" width="33%"><b>⚙️ Tools &amp; Cloud</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -109,7 +154,7 @@
         <img src="https://img.shields.io/badge/Real--Time-EF4444?style=flat-square" />
       </p>
       <ul>
-        <li>Real-time vehicle detection & parking state monitoring</li>
+        <li>Real-time vehicle detection &amp; parking state monitoring</li>
         <li>Eliminates parking bottlenecks and manual monitoring overhead</li>
       </ul>
       <p>
@@ -161,7 +206,7 @@
       </p>
       <ul>
         <li>Dynamic cart management and search filtering</li>
-        <li>Optimized for seamless mobile & desktop browsing</li>
+        <li>Optimized for seamless mobile &amp; desktop browsing</li>
       </ul>
       <p>
         <a href="https://github.com/akriti1929/go4Food"><b>📁 View Repository</b></a> •
