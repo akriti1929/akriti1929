@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=230&section=header&text=Akriti%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full--Stack%20%26%20Frontend%20Systems%20Engineer%20%7C%20Ex--Intern%20%40%20DRDO%20ITR&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,24&height=230&section=header&text=Akriti%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Ex--Intern%20%40%20DRDO%20ITR&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- ================= ANIMATED TYPING TERMINAL ================= -->
   <a href="https://github.com/akriti1929">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+%26+Frontend+Engineer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%26+Microservices+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Flask;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;UI%2FUX+Craftsmanship+%26+Performance+Obsessed+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Python+Developer+%F0%9F%9A%80;Backend+Systems+%26+Automation+Engineer+%E2%9A%A1;Python+%E2%80%A2+Flask+%E2%80%A2+REST+APIs+%E2%80%A2+React+%E2%80%A2+Next.js;Ex-Intern+%40+DRDO+ITR+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Architectures+%26+Clean+Pipelines+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- ================= HERO BADGE MATRIX ================= -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Frontend%20Engineer-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/Role-Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Role" />
     &nbsp;
     <img src="https://img.shields.io/badge/Experience-Ex--Intern%20%40%20DRDO%20ITR-0284C7?style=for-the-badge&logo=shield&logoColor=white" alt="DRDO" />
     &nbsp;
@@ -31,10 +31,10 @@
   <tr>
     <td width="62%" valign="middle">
       <blockquote>
-        <b>💡 Passionate Engineer Turning Complex Ideas into Scalable, Intuitive, and High-Performance Digital Systems.</b>
+        <b>💡 Passionate Python Developer Turning Complex Ideas into Scalable, Resilient, and High-Performance Digital Systems.</b>
       </blockquote>
       <p>
-        I am a <b>Computer Science Engineering</b> student with deep practical experience spanning <b>frontend architecture, resilient backend microservices, and AI-driven automation pipelines</b>.
+        I am a <b>Computer Science Engineering</b> student and <b>Python Developer</b> with hands-on experience spanning <b>backend systems, REST APIs, automated data pipelines, and modern web interfaces</b>.
       </p>
       <p>
         During my <b>Research/Engineering Internship at DRDO ITR</b> (Defence Research and Development Organisation), I worked on real-world engineering workflows, reliability protocols, and scalable technical pipelines.
@@ -54,11 +54,11 @@
         </tr>
         <tr>
           <td>🔭 <b>Current Focus</b></td>
-          <td><b>React, Next.js 15, TypeScript, Python / Flask</b> &amp; AI Integrations</td>
+          <td><b>Python, Flask, REST APIs, React, Next.js</b> &amp; AI Integrations</td>
         </tr>
         <tr>
           <td>💬 <b>Ask Me About</b></td>
-          <td>Component Architecture, REST APIs, Web Performance &amp; UI Systems</td>
+          <td>Python Architecture, REST API Design, Web Systems &amp; Automation</td>
         </tr>
       </table>
     </td>
@@ -79,7 +79,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>⚡ Performance &amp; Scale</h3>
-      <p>High-throughput API endpoints, zero layout shifts (CLS), tree-shaken bundles, and sub-100ms response times.</p>
+      <p>High-throughput API endpoints, modular backend services, optimized execution pipelines, and low-latency response times.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🎨 Modern UI/UX</h3>
@@ -87,7 +87,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🧠 AI &amp; Automation</h3>
-      <p>Integrating intelligent AI/NLP models, ATS scoring pipelines, and automated real-time tracking systems.</p>
+      <p>Integrating intelligent Python AI/NLP models, ATS scoring pipelines, and automated real-time tracking systems.</p>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react,nextjs,flask,tailwind,redux,git,github,vite,vercel,postman,linux&perline=9" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,html,css,cpp,react,nextjs,tailwind,redux,git,github,vite,vercel,postman,linux&perline=9" alt="My Skills" />
     </a>
   </p>
 
@@ -113,7 +113,7 @@
 <table>
   <tr>
     <td align="center" width="33%"><b>💻 Languages</b></td>
-    <td align="center" width="33%"><b>⚡ Frameworks &amp; State</b></td>
+    <td align="center" width="33%"><b>⚡ Frameworks &amp; Backend</b></td>
     <td align="center" width="33%"><b>⚙️ Tools &amp; Cloud</b></td>
   </tr>
   <tr>
@@ -124,16 +124,16 @@
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
